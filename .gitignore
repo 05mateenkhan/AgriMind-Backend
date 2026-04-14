@@ -47,3 +47,5 @@ node_modules/
 # Uploads (runtime generated)
 static/uploads/*
 !static/uploads/Readme.md
+
+.claude

@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(python -m py_compile app.py models/CNN.py models/predict_pipeline.py utils/exception.py utils/helpers.py routes/api.py)",
-      "Bash(python -m py_compile models/predict_pipeline.py utils/helpers.py)",
-      "Bash(python -m py_compile app.py routes/api.py)"
-    ]
-  }
-}
